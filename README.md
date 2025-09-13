@@ -11,7 +11,6 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot for answe
 2. **Install required dependencies**:
 pip install streamlit faiss-cpu sentence-transformers openai pandas numpy
 
-text
 
 3. **Set your OpenAI API key** as an environment variable:
 - On Linux/macOS:
